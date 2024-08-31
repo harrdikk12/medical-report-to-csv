@@ -1,0 +1,49 @@
+Hemoglobin g/dL 13.0 - 16.5 Colorimetric 13.6
+RBC Count million/cmm 4.5 - 5.5 Electrical impedance 4.65
+Hematocrit L % 40 - 49 Calculated 39.3
+MCV fL 83 - 101 Derived 84.5
+MCH pg 27.1 - 32.5 Calculated 29.1
+MCHC g/dL 32.5 - 36.7 Calculated 34.5
+RDW CV % 11.6 - 14 Calculated 13.00
+Total WBC and Differential Count
+WBC Count /cmm 4000 - 10000 SF Cube cell analysis 6420
+Neutrophils % 40 - 80Microscopic 66
+Lymphocytes % 20 - 40Microscopic 23
+Eosinophils % 1 - 6Microscopic 05
+Monocytes % 2 - 10Microscopic 06
+Basophils % 0 - 2Microscopic 00/cmm 2000 - 6700 4237
+/cmm 1100 - 3300 1477
+/cmm 00 - 400 321
+/cmm 200 - 700 385
+/cmm 0 - 100 0
+Platelet Count /cmm 150000 - 410000 Electrical impedance 210000
+MPV fL 7.5 - 10.3 Calculated 10.20
+Peripheral Smear Examination
+RBC Morphology Normochromic Normocytic
+WBC Morphology WBCs Series Shows Normal Morphology
+Platelets Morphology Platelets are adequate with normal morphology.
+Parasites Malarial parasite is not detected.
+Erythrocyte Sedimentation Rate
+ESR mm/1hr 0 - 19 Capillary photometry 2Test Result Unit Biological Ref. Interval
+Differential Count Absolute Count
+Dr.  Sanjeev Shah Dr.Yash Shah Dr. Purvish Darji
+MD Path MD(Path)
+This is an Electronically Authenticated Report.
+tests marked with # are referred tests
+:Male / 62 Y Sex/AgeCollected at :non SAWPLStatus : Final 10-Aug-2023 08:43 Approved on :
+10-Aug-2023 07:22 Collected on : Ref. Id :Printed On 10-Aug-2023 11:11:
+Ref. By :1. NRL SAWPL Gujarat Ahmedabad Paldi::
+Process AtLocation10-Aug-2023 07:44Shatdal complex  opp- BATA 
+Showroom  Ashram Road, Ahmedabad 
+PAN - AAVCS1174P
+MC-2202
+Scan QR code to check 
+report authenticity
+LABORATORY TEST REPORT
+ Passsport No :
+Sample Information Client/Location Information Patient Information
+:082303800172 Lab Id
+EDTA Blood Sample Type   :: Mr. XYZ Name Client Name Sterling Accuris Wellness Pvt Ltd.@ Ashram 
+Road:
+Registration on  :Home Visit 
+Page 1 of 14
